@@ -1,0 +1,11 @@
+{
+  "ticker": "SKR",
+  "network": "devnet",
+  "decimals": 6,
+  "mintAddress": "H1VEUXRXfTki1EU8ZVDgmHVS9WKj6nMbBPJVcSrzU9bU",
+  "mintAuthority": "8qZHUHnvYH9wTk5T1jynaZPPtZPybawzFrmpwd8UH5bw",
+  "treasuryTokenAccount": "49XjHpykx8ChfjHkCDGkSC454zmWFtQQhHJ8j22zgcKh",
+  "initialSupply": 10000000000,
+  "createdAt": "2026-10-04",
+  "notes": "Dummy/test SKR SPL token for devnet testing."
+}

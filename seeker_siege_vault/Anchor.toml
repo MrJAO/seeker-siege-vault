@@ -1,0 +1,19 @@
+skip_local_validator = true
+
+[toolchain]
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+seeker_siege_vault = "FYxctvnr7DJP6qWynyatkacRTyZFeqSf8F9a5qfocHoK"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/treasury-devnet.json"
+
+[scripts]
+test = "cargo test"
+
+[hooks]
